@@ -155,6 +155,19 @@ This analysis shows that the business is driven by commuter behavior, with stron
 
 ---
 
+## Challenges & Learning
+
+- Faced MySQL timeout issues when handling large datasets
+- Encountered secure-file-priv restrictions when exporting data
+- Resolved data duplication issues (~3M duplicate rows)
+- Optimized queries using chunking (LIMIT & OFFSET)
+- Learned how to handle large-scale datasets efficiently
+
+This project significantly improved my ability to work with real-world messy data.
+
+---
+
+
 ## How I Present This
 
 "I found that subscribers account for roughly six times more rides than casual users, with peak usage occurring during weekday evenings. This indicates strong commuting behavior and suggests that targeting casual riders during these peak hours could significantly improve subscription conversion."
