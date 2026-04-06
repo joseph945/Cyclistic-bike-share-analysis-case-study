@@ -35,6 +35,8 @@ Subscribers ride significantly more than casual users (~6x higher).
 
 **Insight:**
 The system heavily depends on subscribers, while casual users represent a strong conversion opportunity.
+<img width="1221" height="775" alt="Screenshot 2026-04-06 111628" src="https://github.com/user-attachments/assets/356f9c8d-16f4-4983-bed4-fd4c0422c0db" />
+
 
 ---
 
