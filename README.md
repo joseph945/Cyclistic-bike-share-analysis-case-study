@@ -3,7 +3,7 @@
 # Divvy Bike Sharing Analysis (2018)
 
 ## Project Overview
-This project analyzes Divvy bike trip data (~6 million records) to understand user behavior and identify opportunities to increase subscription rates.
+This project analyzes Divvy bike trip data (6 million records) to understand user behavior and identify opportunities to increase subscription rates.
 
 ## Objective
 Compare casual riders and subscribers to uncover behavioral patterns and provide data-driven business recommendations.
