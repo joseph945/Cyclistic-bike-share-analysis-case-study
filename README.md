@@ -52,6 +52,9 @@ Ride activity is highest during summer months (especially July).
 Usage increases in warmer weather, indicating seasonal demand.
 
 
+<img width="1278" height="276" alt="image" src="https://github.com/user-attachments/assets/e40fda06-c2dc-439e-b6cf-2bb202bafb50" />
+
+
 
 ---
 
