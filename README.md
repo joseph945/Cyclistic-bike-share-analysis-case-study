@@ -31,7 +31,7 @@ During this project, I worked with multiple large datasets that required signifi
 ## Key Insights
 
 ### 1. User Type Distribution
-Subscribers ride significantly more than casual users (~6x higher).
+Subscribers ride significantly more than casual users (6x higher).
 
 **Insight:**
 The system heavily depends on subscribers, while casual users represent a strong conversion opportunity.
