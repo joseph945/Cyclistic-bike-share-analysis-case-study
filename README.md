@@ -114,7 +114,8 @@ The system is heavily commuter-focused, with potential to grow leisure usage.
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+<img width="1196" height="801" alt="Screenshot 2026-04-06 105221" src="https://github.com/user-attachments/assets/3279ed5e-71b4-4331-99ff-347b7196fff0" />
+
 
 ---
 
