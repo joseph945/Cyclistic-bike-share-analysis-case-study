@@ -1,6 +1,5 @@
 # Cyclistic-bike-share-analysis-case-study
 
-# Divvy Bike Sharing Analysis (2018)
 
 ## Project Overview
 This project analyzes Divvy bike trip data (6 million records) to understand user behavior and identify opportunities to increase subscription rates.
