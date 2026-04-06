@@ -35,6 +35,8 @@ Subscribers ride significantly more than casual users (~6x higher).
 
 **Insight:**
 The system heavily depends on subscribers, while casual users represent a strong conversion opportunity.
+
+
 <img width="1221" height="775" alt="Screenshot 2026-04-06 111628" src="https://github.com/user-attachments/assets/356f9c8d-16f4-4983-bed4-fd4c0422c0db" />
 
 
@@ -46,6 +48,8 @@ Ride activity is highest during summer months (especially July).
 **Insight:**
 Usage increases in warmer weather, indicating seasonal demand.
 
+
+
 ---
 
 ### 3. Peak Days
@@ -53,6 +57,9 @@ Ride activity peaks midweek, especially around Wednesday.
 
 **Insight:**
 This indicates strong commuting behavior, with subscribers using bikes for work-related travel.
+
+
+<img width="985" height="770" alt="Screenshot 2026-04-06 111638" src="https://github.com/user-attachments/assets/35f551a2-fb91-4cbc-9788-50fe78c7dd40" />
 
 ---
 
@@ -62,6 +69,10 @@ Peak usage occurs between **17:00–19:00**, with **17:00 being the highest**.
 **Insight:**
 Clear after-work commuting pattern, confirming weekday routine usage rather than leisure.
 
+
+<img width="1221" height="775" alt="Screenshot 2026-04-06 111628" src="https://github.com/user-attachments/assets/26cfd40f-c3ca-4eb5-8b3d-a01058db2bc9" />
+
+
 ---
 
 ### 5. Ride Duration
@@ -70,6 +81,10 @@ Casual riders take significantly longer trips than subscribers.
 **Insight:**
 Casual usage is leisure-oriented, while subscribers use bikes for short, routine trips.
 
+
+<img width="415" height="771" alt="Screenshot 2026-04-06 111649" src="https://github.com/user-attachments/assets/230b452b-c127-4ba5-abfd-8057d2b7aa9c" />
+
+
 ---
 
 ### 6. Gender Distribution
@@ -77,6 +92,10 @@ Male users represent approximately **2/3 of total riders**.
 
 **Insight:**
 This highlights a gender imbalance and an opportunity to expand the female user base.
+
+
+<img width="485" height="762" alt="Screenshot 2026-04-06 111716" src="https://github.com/user-attachments/assets/27239c4d-6956-4921-88ec-dfb89c0199e2" />
+
 
 ---
 
