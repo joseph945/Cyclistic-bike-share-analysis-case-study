@@ -38,6 +38,8 @@ The system heavily depends on subscribers, while casual users represent a strong
 
 
 <img width="221" height="249" alt="image" src="https://github.com/user-attachments/assets/4d6539dc-422d-4ab8-afc8-afdcadc9a3d7" />
+<img width="287" height="324" alt="image" src="https://github.com/user-attachments/assets/8ea3e7a0-e4e4-40a8-acc3-9cfa9f6bc928" />
+
 
 
 
