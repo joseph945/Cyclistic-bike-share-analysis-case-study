@@ -8,7 +8,7 @@ This project analyzes Divvy bike trip data (~6 million records) to understand us
 ## Objective
 Compare casual riders and subscribers to uncover behavioral patterns and provide data-driven business recommendations.
 
-## 🛠 Tools Used
+## Tools Used
 - SQL (Data Cleaning & Transformation)
 - Tableau (Data Visualization)
 - Excel (Initial exploration)
